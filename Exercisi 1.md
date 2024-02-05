@@ -3,7 +3,7 @@ Exercici GIT 1: Creació i actualització de repositoris
 
 Exercici 1
 
-    1. Crea un repositori nou amb el nom llibre i mostrar el seu contingut.
+1. Crea un repositori nou amb el nom llibre i mostrar el seu contingut.
     2. Configura Git definint el nom de l'usuari, el correu electrònic i activar l'exida en color. Mostrar la configuració final.
 
 
