@@ -4,14 +4,14 @@ Exercici 1
 
 1. Mostra l'historial de canvis del repositori.
 2. Crea la carpeta capítols i dins d'ella crea el fitxer capitol1.txt amb el següent text:
-           mkdir titols
-           cd titols/
+4.            mkdir titols
+   cd titols/
 nano capitol1.txt
-3. Afegeix els canvis a la zona d'intercanvi temporal (staging area)
+5. Afegeix els canvis a la zona d'intercanvi temporal (staging area)
 git add capitol.txt
-4. Fes un commit dels canvis amb el missatge "Afegit capítol 1."
+6. Fes un commit dels canvis amb el missatge "Afegit capítol 1."
 git commit -m «Afegit capítol 1.»
-5. Torna a mostrar l'historial de canvis del repositori.
+7. Torna a mostrar l'historial de canvis del repositori.
            
 Exercici 2
 
