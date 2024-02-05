@@ -1,9 +1,11 @@
+Exercici GIT 2: Ús de l'historial de canvis
+
 Exercici 1
 
 1. Mostra l'historial de canvis del repositori.
 2. Crea la carpeta capítols i dins d'ella crea el fitxer capitol1.txt amb el següent text:
-mkdir titols
-cd titols/
+           mkdir titols
+           cd titols/
 nano capitol1.txt
 3. Afegeix els canvis a la zona d'intercanvi temporal (staging area)
 git add capitol.txt
